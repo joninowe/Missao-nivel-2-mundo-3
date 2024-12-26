@@ -10,6 +10,7 @@
 * Curso: Desenvolvimento Full stack - TURMA 9001
 * Disciplina: RPG0015  - Vamos Manter as Informações!
 * Semestre Letivo: 2024.4
+* Aluno: Jonathan Sendi Inowe
 * Matricula: 202311117502
 
 <hr>
